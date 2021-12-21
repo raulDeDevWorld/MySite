@@ -91,7 +91,7 @@
 .contImg{
   
   position: absolute;
-  top: 310px;
+  top: 307px;
   left: 0;
   right: 0;
   margin: auto;
@@ -170,11 +170,14 @@
   text-align: center;
   color: aliceblue;
   width: 100%;
+padding-top: 1px;
+padding-bottom: 1px;
+
 }
 .contImgTwo{
  
   position: absolute;
-  top: 860px;
+  top: 857px;
   left: 0;
   right: 0;
   margin: auto;
