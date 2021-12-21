@@ -261,6 +261,7 @@
 }
 .footer {
 color: aliceblue;
+text-align: center;
 }
 
 @media (min-width: 720px){
