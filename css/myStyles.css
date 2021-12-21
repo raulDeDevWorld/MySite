@@ -119,7 +119,7 @@
 }
 .span {
   position: relative;
-  top: -37px;
+  top: -36px;
   left: -5px;
   background-color: rgba(0, 0, 0, 0.774);
   display: inline-block;
@@ -203,7 +203,7 @@
 }
 .span2 {
   position: relative;
-  top: -27px;
+  top: -26px;
   background-color: rgba(0, 0, 0, 0.774);
   display: inline-block;
   width: 140px;
