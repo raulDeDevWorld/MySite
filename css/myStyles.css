@@ -259,6 +259,7 @@ padding-bottom: 1px;
   animation-duration: 2s;
   animation-iteration-count: infinite;
   animation-delay: 0s;
+z-index: 1000000000;
 }
 .button a {
   color: aliceblue;
