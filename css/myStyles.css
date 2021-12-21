@@ -63,10 +63,8 @@
 
 }
 @keyframes myAnimationTwo {
-  0% {color: transparent}
-  50%{color: inherit }
-  75% {color: transparent}
-  100%{color: inherit }
+  0% {color:aliceblue}
+  50%{color: transparent}
 }
 @keyframes myAnimation {
   0% {color:aliceblue}
@@ -117,7 +115,7 @@
 }
 .span {
   position: relative;
-  top: -35px;
+  top: -37px;
   left: -5px;
   background-color: rgba(0, 0, 0, 0.774);
   display: inline-block;
@@ -200,7 +198,7 @@
 }
 .span2 {
   position: relative;
-  top: -25px;
+  top: -27px;
   background-color: rgba(0, 0, 0, 0.774);
   display: inline-block;
   width: 140px;
