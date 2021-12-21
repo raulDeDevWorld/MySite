@@ -261,6 +261,9 @@ bottom: 0;
 	100%{transform: scale(1);}
 
 }
+.footer {
+color: aliceblue;
+}
 
 @media (min-width: 720px){
 
