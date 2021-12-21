@@ -236,7 +236,7 @@
 
 .button {
   position: fixed;
-  right: 30px;
+  right: 10px;
   bottom: 20px;
   cursor: pointer;
   font-size: 12px;
@@ -281,6 +281,9 @@ text-align: center;
     position: absolute;
     top: 640px;
   }
+.button {
+  right: 30px;	
+}
   
 }
   @media (max-width: 359px){
