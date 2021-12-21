@@ -59,7 +59,7 @@
   cursor: pointer;
   animation-name: myAnimationTwo;
   animation-duration: 1s;
-  animation-delay: 4s;
+  animation-delay: 5s;
 
 }
 @keyframes myAnimationTwo {
@@ -253,7 +253,7 @@
   animation-name: myAnimaB;
   animation-duration: 2s;
   animation-iteration-count: infinite;
-  animation-delay: 3s;
+  animation-delay: 0s;
 }
 .button a {
   color: aliceblue;
