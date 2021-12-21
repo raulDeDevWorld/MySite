@@ -72,6 +72,8 @@
   0% {color:aliceblue}
   50%{color: transparent}
 }
+.pdf {
+  color: red;
 /* proyectos en aula */
 .proTeach {
   position: absolute;
